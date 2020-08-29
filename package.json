@@ -12,15 +12,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@storybook/addon-essentials": "^5.3.19",
+    "@storybook/addon-essentials": "^6.0.20",
     "@tailwindcss/typography": "^0.2.0",
     "@tailwindcss/ui": "^0.3.1",
-    "alpinejs": "^2.5.0",
-    "tailwindcss": "^1.5.2"
+    "alpinejs": "^2.6.0",
+    "tailwindcss": "^1.7.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.5",
-    "@storybook/html": "^5.3.19",
+    "@babel/core": "^7.11.4",
+    "@storybook/html": "^6.0.20",
     "babel-loader": "^8.1.0",
     "postcss": "^7.0.32"
   }
