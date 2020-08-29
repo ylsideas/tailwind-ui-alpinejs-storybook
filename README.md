@@ -1,6 +1,6 @@
 # Tailwind UI/CSS and AlpineJS Storybook template
 
-*No tailwind UI Code is provided in this template, such code is
+*No tailwind UI Code has been provided in this template, such code is
 copyrighted, instead you can buy a license from TailwindUI, the storybook
 is simply setup should you want to copy the example into your stories.*
 
